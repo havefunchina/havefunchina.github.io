@@ -1,9 +1,9 @@
 if ( 'OVER' != getCookie("FIRSTTIME") ) {
-    setCookie("_1", "http://hack.fdzh.org");
     setCookie("_G", "http://github.com");
     setCookie("_F", "http://www.fdzh.org");
     setCookie("_H", "http://hack.fdzh.org");
     setCookie("_C", "https://coding.net");
+    setCookie("_M", "https://mart.coding.net");
     setCookie("_T", "http://www.taobao.com");
     setCookie("_V", "http://www.v2ex.com");    
     setCookie("_W", "http://weibo.com");
